@@ -1,0 +1,16 @@
+git init
+git add 
+git status
+git commit
+git log
+git checkout 5cb163c7a49425c86cff847b4d3c9bd7a1031259
+git checkout master
+git checkout -f master
+git branch -M main 
+git remote add origin https://github.com/Haripradap/Mastering_Advanced_Git.git
+git push -u origin main  
+git branch new_branch
+git checkout new_branch
+git checkout main
+it checkout -b branch2
+git branch new_one_branch main
